@@ -388,22 +388,22 @@ smart_menu:
 friends:
   技术笔记:  #网站名称
     #网站地址
-    url: https://zhousiwei.gitee.io/ibooks/
-    #网站图片(可忽略不写)
-    img: https://zhousiwei.gitee.io/ibooks/favicon.ico
-    #网站简介(可忽略不写)
-    description: 记录工作和学习过程中的笔记：Java、前端开发、Hexo博客、聚合支付、Linux笔记、ElasticSearch、ELK日志分析
+    url: https://frioa.github.io/
+#    #网站图片(可忽略不写)
+#    img: https://zhousiwei.gitee.io/ibooks/favicon.ico
+#    #网站简介(可忽略不写)
+#    description: 记录工作和学习过程中的笔记：Java、前端开发、Hexo博客、聚合支付、Linux笔记、ElasticSearch、ELK日志分析
   GitHub:
-    url: https://github.com/JoeyBling
-  码云:
-    url: https://gitee.com/zhousiwei
-  简书:
-    url: https://www.jianshu.com/u/02cbf31a043a
-  CSDN:
-    url: https://blog.csdn.net/qq_30930805
+    url: https://github.com/Frioa
+#  码云:
+#    url: https://gitee.com/zhousiwei
+#  简书:
+#    url: https://www.jianshu.com/u/02cbf31a043a
+#  CSDN:
+#    url: https://blog.csdn.net/qq_30930805
 
 # 关于我
-aboutme: 主要涉及技术：<br>Java后端开发、聚合支付、<br>公众号开发、开源爱好者、Linux<br><br>联系QQ:2434387555<br><br>很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 主要涉及技术：<br>Android、Flutter、Unity<br>公众号开发、开源爱好者、Linux<br><br>联系QQ:916378508<br><br>感谢您<br><br>了解一位Android开发者<br>谢谢~~
 ```
 
 
