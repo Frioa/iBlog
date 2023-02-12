@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hexo-theme-yilia-plus-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/themes/hexo-theme-yilia-plus-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
