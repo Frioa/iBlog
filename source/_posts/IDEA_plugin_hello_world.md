@@ -96,7 +96,7 @@ public class HiClazz extends AnAction {
 
 ### 4 测试结果
 **启动运行**
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/518e5b65ac614b32b4e62956ce8169a9~tplv-k3u1fbpfcp-watermark.image?)
+![Gradle.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/518e5b65ac614b32b4e62956ce8169a9~tplv-k3u1fbpfcp-watermark.image?)
 -   IDEA 插件开发运行会基于 Plugin 或者 Gradle 下配置的 `::runIde`
 
 **运行效果**
