@@ -8,11 +8,12 @@ tags:
 
 ### 1. 工程结构
 - HiClazz 是继承 AnAction 的实现类，用于附着到 IDEA 的窗体上，点击后打开对应页面
-<!--more-->
 - MyDumbAwareAction、MyToolWindowFactory，配合使用，用于在 IDEA 最下面的窗体设置，与你看见的控制台输出信息位置一样。
 - MySearchableConfigurable，可以用于 Settings 中配置窗体。
 - TestUI 是基于 Swing 开发的窗体，验证在 AnAction 实现类中打开。
 - plugin.xml 是整个 IDEA 咖啡的配置文件，你所有的窗体都会在这个配置文件里有所体现。
+
+<!--more-->
 
 ```
 PluginGuide
