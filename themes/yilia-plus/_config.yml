@@ -231,7 +231,7 @@ live2d:
     hOffset: 50 # 水平偏移(default: 0)
     #vOffset: -20 # 垂直偏移(default: -20)
   mobile:
-    show: false # 是否在移动设备上显示(default: true)
+    show: true # 是否在移动设备上显示(default: true)
     scale: 0.6 # 移动设备上的缩放(default: 0.5)
   react:
     opacity: 0.8 # 模型透明度(default: 0.7)
