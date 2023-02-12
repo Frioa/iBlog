@@ -1,17 +1,16 @@
 ---
-title: Linux 管道
+title: Linux 消息队列
 date: 22023-02-12 21:42:31
 tags:
-- Android
 - Linux
-- Binder
 ---
 
 > 理解管道大致如何工作即可：
 
+<!--more-->
+
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c8f526cd54a846389baed2318e044c23~tplv-k3u1fbpfcp-watermark.image?)
 
-<!--more-->
 
 1. Linux 内部构建了一个在内核空间管道概念
    分为两部分：
