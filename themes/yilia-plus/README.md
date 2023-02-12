@@ -263,7 +263,7 @@ busuanzi:
 
 # 网易云音乐插件
 music:
-  enable: false
+  enable: true
   # 播放器尺寸类型(1：长尺寸、2：短尺寸)
   type: 2
   #id: 1332647902  # 网易云分享的音乐ID(更换音乐请更改此配置项)
