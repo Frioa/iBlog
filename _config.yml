@@ -99,7 +99,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: yilia-plus
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
+  # Deployment
+## Docs: https://frioa.github.io/ deploy:
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:Frioa/Frioa.github.io.git
+  branch: gh-pages
