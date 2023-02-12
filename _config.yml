@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: YueQ Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: YueQ
 language: en
 timezone: ''
 
@@ -99,8 +99,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: yilia-plus
 
-  # Deployment
-## Docs: https://frioa.github.io/ deploy:
+# Deployment
+# Docs: https://frioa.github.io/
+#
 deploy:
   type: git
   repo: git@github.com:Frioa/Frioa.github.io.git
