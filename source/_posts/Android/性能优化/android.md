@@ -17,7 +17,7 @@ tags:
 @Override
 public void onSpeedChange(CarPropertyValue speedValue){
     Log.tag(TAG).v("onSpeedChange " + speedValue);
-    if (xxx) updateUI();
+    if (xx) updateUI();
 }
 ```
 
